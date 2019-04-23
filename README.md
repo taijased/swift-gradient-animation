@@ -1,9 +1,5 @@
 # swift-gradient-animation
-
-
 ![](assets/screen1.png)
-![](assets/screen2.png)
-![](assets/screen3.png)
 ## Left to Right
 
 ```
